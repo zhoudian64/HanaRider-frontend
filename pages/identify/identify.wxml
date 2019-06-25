@@ -1,0 +1,7 @@
+<view class="container">
+  <view class='function-list'>
+    <button class='upload-button' bindtap='upload'>
+    <image src="../../resources/upload.svg" class='upload'></image>
+    </button>
+  </view>
+</view>

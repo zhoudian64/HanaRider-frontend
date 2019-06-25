@@ -1,0 +1,7 @@
+<view class='container'>
+  <view class='history-item' wx:for="{{history}}" wx:for-item="item">
+  <button class='name-button' bindtap='toData' data-name='{{item.name}}'>
+    {{item.name}}
+  </button>
+  </view>
+</view>

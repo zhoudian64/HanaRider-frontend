@@ -1,0 +1,6 @@
+<!--pages/identify/result/result.wxml-->
+<view class="content">
+    <image src="{{image}}"  mode="widthFix"/>
+    <text>{{name}}</text>
+    <text>{{baike_info}}</text>
+</view>
